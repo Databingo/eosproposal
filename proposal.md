@@ -80,7 +80,7 @@ Ashah Chen
 # 2. 证据
 - 我拥有账户 “gyytsnigenes” 的原始公私钥对，包括 owner 和 active 公私钥对。
 - 我有 “gyytsnigenes” 下级账户 “aiwobabamama” 和 ”chairmanship” 的公私钥对。这两个账户是我在 “gyytsnigenes" 被攻击之前创建的。
-- 我已经做了附加信息为 “9da6b5ea943863ce898cd1faf38d46b4” 的若干转账，从 “gyytsnigenes” 到 “aiwobabamama” 到 “chairmanship” 再到 “gyytsnigenes”。 “9da6b5ea943863ce898cd1faf38d46b4” 是英文句子 “I am the owner of gyytsnigenes and aiwobabamama and chairmanship.” 的 MD5 哈希值，意思是“我是账户 gyytsnigenes 和 aiwobabamama 和 chairmanship 的主人”，以作为我是账户主人的证明(tx7, tx8, tx9)。
+- 我已经做了附加信息为 “9da6b5ea943863ce898cd1faf38d46b4” 的若干转账，从 “gyytsnigenes” 到 “aiwobabamama” 到 “chairmanship” 再到 “gyytsnigenes”。 “9da6b5ea943863ce898cd1faf38d46b4” 是英文句子 “I am the owner of gyytsnigenes and aiwobabamama and chairmanship.” 的 MD5 哈希值，意思是“我是账户 gyytsnigenes 和 aiwobabamama 和 chairmanship 的主人”，以作为我是账户原本主人的证明(tx7, tx8, tx9)。
 
 ```
                            账户主人自证图  
