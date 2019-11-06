@@ -100,8 +100,7 @@ Ashah Chen
 
 ```
 # 3. 请求
-I invite you BPs to check this situations, proofs and requests. For EOS holder’s rights, I ask you vote the proposal “returnstolen” to frozen fake account “gyygsnigenes” immediately then change gyygsnigenes’s pub keys to gyytsnigenes’s. The coin belongs to two old men, they work half life’s money.
-我请求各位区块生产者检查这些情况、证据和请求。作为 EOS 持有者的权利，我请求你对名为 “returnstolen” 的提案投赞成票，立即冻结偷盗账户 “gyygsnigenes” 并更改其公钥为 “gyytsnigenes” 的公钥。这些失窃的代币属于两位老人，他们半辈子辛苦劳作所积攒的财富。  
+我请求各位区块生产者检查这些情况、证据和请求。作为 EOS 持有者的权利，我请求您对名为 “returnstolen” 的提案投赞成票，立即冻结偷盗账户 “gyygsnigenes” 并更改其公钥为 “gyytsnigenes” 的公钥。这些失窃的代币属于两位老人，他们半辈子辛苦劳作所积攒的财富。  
 
 # 4. Transctions
 tx1: 6e72676101976af81abcb8e4801b03ca50c1199e0db36a40f879e9cbe949dbf9  
