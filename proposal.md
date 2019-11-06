@@ -61,7 +61,7 @@ Ashah Chen
 # 亲爱的 EOS 区块生产者:
 我是一个 EOS 用户，我有一个关于私钥失窃的报告。我需要各位帮忙冻结并转回失窃的 EOS。具体情况、证据和请求如下。
 # 1. 情况
-My EOS account “gyytsnigenes” was created at EOS launched time. I have about 33620 EOS in it. At Aug 16, 2019, a user “jiawenwallet” created a similar account “gyygsnigenes”(tx1), three minutes later, someone moved my 33620 EOS in to it (tx2). I found this action at Oct 2019, I’m sure someone got my private key because I never do such transfer. I immediately changed the private key of “gyytsnigenes”, then collected other EOS in sub-account “chairmanship”(tx3) and “aiwobabamama”(tx4) to “gyytsnigenes”. Now “gyytsnigenes” is safe with some EOS in it(plus CUP/NET/RAM).
+我的 EOS 账户 “gyytsnigenes” 创建于 EOS 主网启动时，保存有大概 33620 个 EOS。2019 年 8 月 16 日夜晚， 一个名为 "jiawentwallet" 的账户创建了一个相似的账户 “gyygsnigenes”(tx1)，三分钟之后，我的 33602 个 EOS 就被转移到 “gyygsnigenes” 里面(tx2)。我在 2019 年 10 月发现了这个动作，我可以确定有人偷走了我的私钥，因为我从来没有做过这个转账操作。我立刻修改了 “gyytsnigenes” 的私钥，把下级账户 “chairmanship” 和 “aiwobabamama” 的 EOS 收集回 “gyytsnigenes” （tx3，tx4）。现在 “gyytsnigenes” 处于安全状态，并存有一些 EOS（加上 CUP/NET/RAM）。
 
 ```
                     Picture of hacker's action  
