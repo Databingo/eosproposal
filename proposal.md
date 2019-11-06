@@ -77,25 +77,25 @@ Ashah Chen
 [aiwobabamama]  [chairmanship]  
 ```
 
-# 2. Proofs
-- I have the original key pair of “gyytsnigenes”, both owner and active keys.
-- I have the key pair of sub-accounts “aiwobabamama” and ”chairmanship” of “gyytsnigenes”. Those sub-accounts were created by myself before “gyytsnigenes" was attacked(tx5, tx6).
-- I have done transactions with memo “9da6b5ea943863ce898cd1faf38d46b4” the hash of sentence “I am the owner of gyytsnigenes and aiwobabamama and chairmanship.” from “gyytsnigenes” to “aiwobabamama” to “chairmanship” then to “gyytsnigenes” as proofs that I am the owner(tx7, tx8, tx9).
+# 2. 证据
+- I have the original key pair of “gyytsnigenes”, both owner and active keys.我拥有账户 “gyytsnigenes” 的原始公私钥对，包括 owner 和 active 公私钥对。
+- I have the key pair of sub-accounts “aiwobabamama” and ”chairmanship” of “gyytsnigenes”. Those sub-accounts were created by myself before “gyytsnigenes" was attacked(tx5, tx6).我有 “gyytsnigenes” 下级账户 “aiwobabamama” 和 ”chairmanship” 的公私钥对。这两个账户是我在 “gyytsnigenes" 被攻击之前创建的。
+- I have done transactions with memo “9da6b5ea943863ce898cd1faf38d46b4” the hash of sentence “I am the owner of gyytsnigenes and aiwobabamama and chairmanship.” from “gyytsnigenes” to “aiwobabamama” to “chairmanship” then to “gyytsnigenes” as proofs that I am the owner(tx7, tx8, tx9).我已经做了附加信息为 “9da6b5ea943863ce898cd1faf38d46b4” 的若干转账，从 “gyytsnigenes” 到 “aiwobabamama” 到 “chairmanship” 再到 “gyytsnigenes”。 “9da6b5ea943863ce898cd1faf38d46b4” 是英文句子 “I am the owner of gyytsnigenes and aiwobabamama and chairmanship.” 的 MD5 哈希值，意思是“我是账户 gyytsnigenes 和 aiwobabamama 和 chairmanship 的主人”，以作为我是账户主人的证明(tx7, tx8, tx9)。
 
 ```
-                     Picture of owner's evidence  
+                           账户主人自证图  
                            (2018.06.09-)  
  I am the owner of gyytsnigenes and aiwobabamama and chairmanship.   
-   Up sentence's MD5 hash is 9da6b5ea943863ce898cd1faf38d46b4   
+     上一句的 MD5 哈希值是 9da6b5ea943863ce898cd1faf38d46b4   
 
                            [gyytsnigenes]     
                                  /^
                                 /  \
-                    Memo:9da6../    \ Memo:9da6..
+                    信息：9da6../    \ 信息：9da6..
                     Tx7       /      \Tx9
                              v        \
                 [aiwobabamama] -----> [chairmanship]  
-                               Memo:9da6..
+                               信息：9da6..
                                Tx8
 
 ```
