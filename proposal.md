@@ -41,42 +41,15 @@ Ashah Chen
 # 1. 情况
 我的 EOS 账户 “gyytsnigenes” 创建于 EOS 主网启动时，保存有大概 33620 个 EOS。2019 年 8 月 16 日夜晚， 一个名为 "jiawenwallet" 的账户创建了一个相似的账户 “gyygsnigenes”(tx1)，三分钟之后，我的 33602 个 EOS 就被转移到 “gyygsnigenes” 里面(tx2)。我在 2019 年 10 月发现了这个动作，我可以确定有人偷走了我的私钥，因为我从来没有做过这个转账操作。我立刻修改了 “gyytsnigenes” 的私钥，把下级账户 “chairmanship” 和 “aiwobabamama” 的 EOS 收集回 “gyytsnigenes” （tx3，tx4）。现在 “gyytsnigenes” 处于安全状态，并存有一些 EOS。
 
-```
-                           黑客动作图示 
-                      (2019.8.16-2019.8.17)  
-                                                               
-                                               [jiawenwallet]  
-                                                    |  
-                                                    |步骤 1: 创建账户(Tx1)  
-                        步骤 2: 转移代币(Tx2)         V  
-         [gyytsnigenes] ---------------------> [gyygsnigenes]  
-              /\  
-             /  \
-[aiwobabamama]  [chairmanship]  
-```
+<p align="center"><img src="PoS_cn.dot.png" width="66%" /></p> 
 
 # 2. 证据
 - 我拥有账户 “gyytsnigenes” 的原始公私钥对，包括 owner 和 active 公私钥对。
 - 我有 “gyytsnigenes” 下级账户 “aiwobabamama” 和 ”chairmanship” 的公私钥对。这两个账户是我在 “gyytsnigenes" 被攻击之前创建的。
 - 我已经做了附加信息为 “9da6b5ea943863ce898cd1faf38d46b4” 的若干转账，从 “gyytsnigenes” 到 “aiwobabamama” 到 “chairmanship” 再到 “gyytsnigenes”。 “9da6b5ea943863ce898cd1faf38d46b4” 是英文句子 “I am the owner of gyytsnigenes and aiwobabamama and chairmanship.” 的 MD5 哈希值，意思是“我是账户 gyytsnigenes 和 aiwobabamama 和 chairmanship 的主人”，以作为我是账户原本主人的证明(tx7, tx8, tx9)。
 
-```
-                           账户主人自证图  
-                           (2018.06.09-)  
- I am the owner of gyytsnigenes and aiwobabamama and chairmanship.   
-     上一句的 MD5 哈希值是 9da6b5ea943863ce898cd1faf38d46b4   
-                                              
-                           [gyytsnigenes]     
-                                 /^
-                                /  \
-                    信息：9da6../    \ 信息：9da6..
-                    Tx7       /      \Tx9
-                             v        \
-                [aiwobabamama] -----> [chairmanship]  
-                               信息：9da6..
-                               Tx8
+<p align="center"><img src="PoE_cn.dot.png" width="60%" /></p> 
 
-```
 # 3. 请求
 我请求各位区块生产者检查这些情况、证据和请求。作为 EOS 持有者的权利，我请求您对名为 “returnstolen” 的提案投赞成票，提案通过之后立即冻结偷盗账户 “gyygsnigenes” 并更改其公钥为 “gyytsnigenes” 的公钥。这些失窃的代币属于两位老人，他们半辈子辛苦劳作所积攒的财富。  
 
