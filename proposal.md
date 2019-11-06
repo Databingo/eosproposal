@@ -39,14 +39,14 @@ Ashah Chen
 # 尊敬的 EOS 区块生产者:
 我是一个 EOS 用户，我有一个关于私钥失窃的报告。我需要各位帮忙冻结并转回失窃的 EOS。具体情况、证据和请求如下。
 # 1. 情况
-我的 EOS 账户 “gyytsnigenes” 创建于 EOS 主网启动时，保存有大概 33620 个 EOS。2019 年 8 月 16 日夜晚， 一个名为 "jiawenwallet" 的账户创建了一个相似的账户 “gyygsnigenes”(tx1)，三分钟之后，我的 33602 个 EOS 就被转移到 “gyygsnigenes” 里面(tx2)。我在 2019 年 10 月发现了这个动作，我可以确定有人偷走了我的私钥，因为我从来没有做过这个转账操作。我立刻修改了 “gyytsnigenes” 的私钥，把下级账户 “chairmanship” 和 “aiwobabamama” 的 EOS 收集回 “gyytsnigenes” （tx3，tx4）。现在 “gyytsnigenes” 处于安全状态，并存有一些 EOS。
+我的 EOS 账户 “gyytsnigenes” 创建于 EOS 主网启动时，保存有大概 33620 个 EOS。2019 年 8 月 16 日夜晚， 一个名为 "jiawenwallet" 的账户创建了一个相似的账户 “gyygsnigenes”([Tx1](https://eosflare.io/tx/6E72676101976AF81ABCB8E4801B03CA50C1199E0DB36A40F879E9CBE949DBF9))，三分钟之后，我的 33602 个 EOS 就被转移到 “gyygsnigenes” 里面([Tx2](https://eosflare.io/tx/54D8FFF2F02257D0B4872394D8673D0A6F8B38669D834B6B7BCE281513142804))。我在 2019 年 10 月发现了这个动作，我可以确定有人偷走了我的私钥，因为我从来没有做过这个转账操作。我立刻修改了 “gyytsnigenes” 的私钥，把下级账户 “chairmanship” 和 “aiwobabamama” 的 EOS 收集回 “gyytsnigenes” （[Tx3](https://eosflare.io/tx/FB78FF4D355CC436226519BB7687DF3CA508549F111D9D4C0C9228EAA6A92B8A)，[Tx4](https://eosflare.io/tx/3D0A4EED41E1076254E05F1C2F04FD5E5714796C525D6C754C8C3B7EE48EB73B)）。现在 “gyytsnigenes” 处于安全状态，并存有一些 EOS。
 
 <p align="center"><img src="PoS_cn.dot.png" width="66%" /></p> 
 
 # 2. 证据
 - 我拥有账户 “gyytsnigenes” 的原始公私钥对，包括 owner 和 active 公私钥对。
-- 我有 “gyytsnigenes” 下级账户 “aiwobabamama” 和 ”chairmanship” 的公私钥对。这两个账户是我在 “gyytsnigenes" 被攻击之前创建的。
-- 我已经做了附加信息为 “9da6b5ea943863ce898cd1faf38d46b4” 的若干转账，从 “gyytsnigenes” 到 “aiwobabamama” 到 “chairmanship” 再到 “gyytsnigenes”。 “9da6b5ea943863ce898cd1faf38d46b4” 是英文句子 “I am the owner of gyytsnigenes and aiwobabamama and chairmanship.” 的 MD5 哈希值，意思是“我是账户 gyytsnigenes 和 aiwobabamama 和 chairmanship 的主人”，以作为我是账户原本主人的证明(tx7, tx8, tx9)。
+- 我有 “gyytsnigenes” 下级账户 “aiwobabamama” 和 ”chairmanship” 的公私钥对。这两个账户是我在 “gyytsnigenes" 被攻击之前创建的([Tx5](https://eosflare.io/tx/7d1fdd11f1ebb53c2ed7a86b8af548b2c307c045ad2e652207322cc7742bf0fa)，[Tx6](https://eosflare.io/tx/1877ed94dafdeee92a6a912bbc4ad404a0ad2da6ff91ad447a4c7679faf4ba71))。
+- 我已经做了附加信息为 “9da6b5ea943863ce898cd1faf38d46b4” 的若干转账，从 “gyytsnigenes” 到 “aiwobabamama” 到 “chairmanship” 再到 “gyytsnigenes”。 “9da6b5ea943863ce898cd1faf38d46b4” 是英文句子 “I am the owner of gyytsnigenes and aiwobabamama and chairmanship.” 的 MD5 哈希值，意思是“我是账户 gyytsnigenes 和 aiwobabamama 和 chairmanship 的主人”，以作为我是账户原本主人的证明([Tx7](https://eosflare.io/tx/a1f7489af1a84e4251b88b1cb81a36159b46c90515ca8661d37d5a79549a8337)，[Tx8](https://eosflare.io/tx/757e5460eb471d73b67a917c3e55608a576d68d1ad3201230c2345e55ab92348)，[Tx9](https://eosflare.io/tx/86c59dd37dbdf90689d7dda24188e565ab286a0111d8f194e8e12aa7c4aeb834))。
 
 <p align="center"><img src="PoE_cn.dot.png" width="56%" /></p> 
 
