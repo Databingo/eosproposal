@@ -102,7 +102,7 @@ Ashah Chen
 # 3. 请求
 我请求各位区块生产者检查这些情况、证据和请求。作为 EOS 持有者的权利，我请求您对名为 “returnstolen” 的提案投赞成票，立即冻结偷盗账户 “gyygsnigenes” 并更改其公钥为 “gyytsnigenes” 的公钥。这些失窃的代币属于两位老人，他们半辈子辛苦劳作所积攒的财富。  
 
-# 4. Transctions
+# 4. 相关交易
 tx1: 6e72676101976af81abcb8e4801b03ca50c1199e0db36a40f879e9cbe949dbf9  
 tx2: 54d8fff2f02257d0b4872394d8673d0a6f8b38669d834b6b7bce281513142804  
 tx3: fb78ff4d355cc436226519bb7687df3ca508549f111d9d4c0c9228eaa6a92b8a  
@@ -113,6 +113,6 @@ tx7: a1f7489af1a84e4251b88b1cb81a36159b46c90515ca8661d37d5a79549a8337
 tx8: 757e5460eb471d73b67a917c3e55608a576d68d1ad3201230c2345e55ab92348  
 tx9: 86c59dd37dbdf90689d7dda24188e565ab286a0111d8f194e8e12aa7c4aeb834  
 
-Best Wishes.  
+此致 敬礼   
 Ashah Chen   
-11/6/2019 
+2019.11.6  
