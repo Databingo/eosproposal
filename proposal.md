@@ -25,7 +25,9 @@ aiwobabamama  chairmanship
 
 ```
                     Picture of owner's evidence  
-                      (2018.06.09-)  
+                         (2018.06.09-)  
+ I am the owner of gyytsnigenes and aiwobabamama and chairmanship.   
+   Up sentence's MD5 hash is 9da6b5ea943863ce898cd1faf38d46b4   
 
                                            jiawenwallet  
                                                 |  
