@@ -12,7 +12,7 @@ My EOS account “gyytsnigenes” was created at EOS launched time. I have about
 ```
                     Picture of hacker's action  
                       (2019.8.16-2019.8.17)  
-
+                                                               
                                                [jiawenwallet]  
                                                     |  
                                                     |Step 1: Create account(Tx1)  
@@ -33,7 +33,7 @@ My EOS account “gyytsnigenes” was created at EOS launched time. I have about
                            (2018.06.09-)  
  I am the owner of gyytsnigenes and aiwobabamama and chairmanship.   
    Up sentence's MD5 hash is 9da6b5ea943863ce898cd1faf38d46b4   
-
+                                              
                            [gyytsnigenes]     
                                  /^
                                 /  \
@@ -71,7 +71,7 @@ Ashah Chen
 ```
                            黑客动作图示 
                       (2019.8.16-2019.8.17)  
-
+                                                               
                                                [jiawenwallet]  
                                                     |  
                                                     |步骤 1: 创建账户(Tx1)  
@@ -92,7 +92,7 @@ Ashah Chen
                            (2018.06.09-)  
  I am the owner of gyytsnigenes and aiwobabamama and chairmanship.   
      上一句的 MD5 哈希值是 9da6b5ea943863ce898cd1faf38d46b4   
-
+                                              
                            [gyytsnigenes]     
                                  /^
                                 /  \
