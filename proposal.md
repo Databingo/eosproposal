@@ -8,14 +8,14 @@ My EOS account “gyytsnigenes” was created at EOS launched time. I have about
                     Picture of hacker's action  
                       (2019.8.16-2019.8.17)  
 
-                                           jiawenwallet  
-                                                |  
-                                                |Step 1: Create account(Tx1)  
-                    Step 2: Move coin(Tx2)      V  
-       gyytsnigenes ---------------------> gyygsnigenes  
-            /\  
-           /  \
-aiwobabamama  chairmanship  
+                                              [jiawenwallet]  
+                                                    |  
+                                                    |Step 1: Create account(Tx1)  
+                        Step 2: Move coin(Tx2)      V  
+         [gyytsnigenes] ---------------------> [gyygsnigenes]  
+              /\  
+             /  \
+[aiwobabamama]  [chairmanship]  
 ```
 
 # 2. Proofs
@@ -29,13 +29,13 @@ aiwobabamama  chairmanship
  I am the owner of gyytsnigenes and aiwobabamama and chairmanship.   
    Up sentence's MD5 hash is 9da6b5ea943863ce898cd1faf38d46b4   
 
-                            gyytsnigenes    
+                           [gyytsnigenes]     
                                  /^
                                 /  \
                     Memo:9da6../    \ Memo:9da6..
                     Tx7       /      \Tx9
                              v        \
-                  aiwobabamama -----> chairmanship  
+                [aiwobabamama] -----> [chairmanship]  
                                Memo:9da6..
                                Tx8
 
