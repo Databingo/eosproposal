@@ -56,3 +56,62 @@ tx9: 86c59dd37dbdf90689d7dda24188e565ab286a0111d8f194e8e12aa7c4aeb834
 Best Wishes.  
 Ashah Chen   
 11/6/2019  
+
+
+# 亲爱的 EOS 区块生产者:
+我是一个 EOS 用户，我有一个关于私钥失窃的报告。我需要各位帮忙冻结并转回失窃的 EOS。具体情况、证据和请求如下。
+# 1. 情况
+My EOS account “gyytsnigenes” was created at EOS launched time. I have about 33620 EOS in it. At Aug 16, 2019, a user “jiawenwallet” created a similar account “gyygsnigenes”(tx1), three minutes later, someone moved my 33620 EOS in to it (tx2). I found this action at Oct 2019, I’m sure someone got my private key because I never do such transfer. I immediately changed the private key of “gyytsnigenes”, then collected other EOS in sub-account “chairmanship”(tx3) and “aiwobabamama”(tx4) to “gyytsnigenes”. Now “gyytsnigenes” is safe with some EOS in it(plus CUP/NET/RAM).
+
+```
+                    Picture of hacker's action  
+                      (2019.8.16-2019.8.17)  
+
+                                               [jiawenwallet]  
+                                                    |  
+                                                    |Step 1: Create account(Tx1)  
+                        Step 2: Move coin(Tx2)      V  
+         [gyytsnigenes] ---------------------> [gyygsnigenes]  
+              /\  
+             /  \
+[aiwobabamama]  [chairmanship]  
+```
+
+# 2. Proofs
+- I have the original key pair of “gyytsnigenes”, both owner and active keys.
+- I have the key pair of sub-accounts “aiwobabamama” and ”chairmanship” of “gyytsnigenes”. Those sub-accounts were created by myself before “gyytsnigenes" was attacked(tx5, tx6).
+- I have done transactions with memo “9da6b5ea943863ce898cd1faf38d46b4” the hash of sentence “I am the owner of gyytsnigenes and aiwobabamama and chairmanship.” from “gyytsnigenes” to “aiwobabamama” to “chairmanship” then to “gyytsnigenes” as proofs that I am the owner(tx7, tx8, tx9).
+
+```
+                     Picture of owner's evidence  
+                           (2018.06.09-)  
+ I am the owner of gyytsnigenes and aiwobabamama and chairmanship.   
+   Up sentence's MD5 hash is 9da6b5ea943863ce898cd1faf38d46b4   
+
+                           [gyytsnigenes]     
+                                 /^
+                                /  \
+                    Memo:9da6../    \ Memo:9da6..
+                    Tx7       /      \Tx9
+                             v        \
+                [aiwobabamama] -----> [chairmanship]  
+                               Memo:9da6..
+                               Tx8
+
+```
+# 3. Request
+I invite you BPs to check this situations, proofs and requests. For EOS holder’s rights, please vote the proposal “anewidentity” to frozen fake account “gyygsnigenes” immediately then change gyygsnigenes’s pub keys to gyytsnigenes’s. The coin belongs to two old men, they work half life’s money.
+# 4. Transctions
+tx1: 6e72676101976af81abcb8e4801b03ca50c1199e0db36a40f879e9cbe949dbf9  
+tx2: 54d8fff2f02257d0b4872394d8673d0a6f8b38669d834b6b7bce281513142804  
+tx3: fb78ff4d355cc436226519bb7687df3ca508549f111d9d4c0c9228eaa6a92b8a  
+tx4: 3d0a4eed41e1076254e05f1c2f04fd5e5714796c525d6c754c8c3b7ee48eb73b  
+tx5: 7d1fdd11f1ebb53c2ed7a86b8af548b2c307c045ad2e652207322cc7742bf0fa  
+tx6: 1877ed94dafdeee92a6a912bbc4ad404a0ad2da6ff91ad447a4c7679faf4ba71  
+tx7: a1f7489af1a84e4251b88b1cb81a36159b46c90515ca8661d37d5a79549a8337  
+tx8: 757e5460eb471d73b67a917c3e55608a576d68d1ad3201230c2345e55ab92348  
+tx9: 86c59dd37dbdf90689d7dda24188e565ab286a0111d8f194e8e12aa7c4aeb834  
+
+Best Wishes.  
+Ashah Chen   
+11/6/2019 
