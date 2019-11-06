@@ -4,9 +4,10 @@ I am a EOS user, I have a report about lost private key. I need you help to froz
 # 1. Situation
 My EOS account “gyytsnigenes” was created at EOS launched time. I have about 33620 EOS in it. At Aug 16, 2019, a user “jiawenwallet” created a similar account “gyygsnigenes”(tx1), three minutes later, someone moved my 33620 EOS in to it (tx2). I found this action at Oct 2019, I’m sure someone got my private key because I never do such transfer. I immediately changed the private key of “gyytsnigenes”, then collected other EOS in sub-account “chairmanship”(tx3) and “aiwobabamama”(tx4) to “gyytsnigenes”. Now “gyytsnigenes” is safe with some EOS in it(plus CUP/NET/RAM).
 ```
-Picture of hacker's action  
-(2019.8.16-2019.8.17)  
-                                           **jiawenwallet**  
+                    Picture of hacker's action  
+                      (2019.8.16-2019.8.17)  
+                      
+                                           jiawenwallet  
                                                 |  
                                                 |Step 1: Create account(Tx1)  
                     Step 2: Move coin(Tx2)      V  
