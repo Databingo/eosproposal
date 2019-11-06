@@ -8,14 +8,15 @@ My EOS account “gyytsnigenes” was created at EOS launched time. I have about
                     Picture of hacker's action  
                       (2019.8.16-2019.8.17)  
 
-                                           jiawenwallet  
-                                                |  
-                                                |Step 1: Create account(Tx1)  
-                    Step 2: Move coin(Tx2)      V  
-       gyytsnigenes ---------------------> gyygsnigenes  
-            /\  
-           /  \
-aiwobabamama  chairmanship  
+                            gyytsnigenes    
+                                 /^
+                                /  \
+                    Memo:9da6../    \ Memo:9da6..
+                    Tx7       /      \Tx9
+                             v        \
+                  aiwobabamama -----> chairmanship  
+                               Memo:9da6..
+                               Tx8
 ```
 
 # 2. Proofs
