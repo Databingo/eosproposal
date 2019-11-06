@@ -1,4 +1,9 @@
 
+## Question: Should we move a well-proofed stolen EOS coin back to original holder?
+## Language of Record: English
+## Proposers: Ashah Chen, databingo@foxmail.com, Account: gyytsnigenes
+## Description of Referendum: Move a well-proofed stolen EOS coin back to original holder
+
 # Dear EOS BPs:
 I am a EOS user, I have a report about lost private key. I need you help to frozen then move back my EOS coin. The Situation, Proof and Request as below.
 # 1. Situation
