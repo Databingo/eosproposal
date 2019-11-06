@@ -41,7 +41,7 @@ My EOS account “gyytsnigenes” was created at EOS launched time. I have about
 
 ```
 # 3. Request
-I invite you BPs to check this situations, proofs and requests. For EOS holder’s rights, please vote the proposal “anewidentity” to frozen fake account “gyygsnigenes” immediately then change gyygsnigenes’s pub keys to gyytsnigenes’s. The coin belongs to two old men, they work half life’s money.
+I invite you BPs to check this situations, proofs and requests. For EOS holder’s rights, I ask you vote the proposal “returnstolen” to frozen fake account “gyygsnigenes” immediately then change gyygsnigenes’s pub keys to gyytsnigenes’s. The coin belongs to two old men, they work half life’s money.
 # 4. Transctions
 tx1: 6e72676101976af81abcb8e4801b03ca50c1199e0db36a40f879e9cbe949dbf9  
 tx2: 54d8fff2f02257d0b4872394d8673d0a6f8b38669d834b6b7bce281513142804  
@@ -61,7 +61,7 @@ Ashah Chen
 # 亲爱的 EOS 区块生产者:
 我是一个 EOS 用户，我有一个关于私钥失窃的报告。我需要各位帮忙冻结并转回失窃的 EOS。具体情况、证据和请求如下。
 # 1. 情况
-我的 EOS 账户 “gyytsnigenes” 创建于 EOS 主网启动时，保存有大概 33620 个 EOS。2019 年 8 月 16 日夜晚， 一个名为 "jiawentwallet" 的账户创建了一个相似的账户 “gyygsnigenes”(tx1)，三分钟之后，我的 33602 个 EOS 就被转移到 “gyygsnigenes” 里面(tx2)。我在 2019 年 10 月发现了这个动作，我可以确定有人偷走了我的私钥，因为我从来没有做过这个转账操作。我立刻修改了 “gyytsnigenes” 的私钥，把下级账户 “chairmanship” 和 “aiwobabamama” 的 EOS 收集回 “gyytsnigenes” （tx3，tx4）。现在 “gyytsnigenes” 处于安全状态，并存有一些 EOS（加上 CUP/NET/RAM）。
+我的 EOS 账户 “gyytsnigenes” 创建于 EOS 主网启动时，保存有大概 33620 个 EOS。2019 年 8 月 16 日夜晚， 一个名为 "jiawenwallet" 的账户创建了一个相似的账户 “gyygsnigenes”(tx1)，三分钟之后，我的 33602 个 EOS 就被转移到 “gyygsnigenes” 里面(tx2)。我在 2019 年 10 月发现了这个动作，我可以确定有人偷走了我的私钥，因为我从来没有做过这个转账操作。我立刻修改了 “gyytsnigenes” 的私钥，把下级账户 “chairmanship” 和 “aiwobabamama” 的 EOS 收集回 “gyytsnigenes” （tx3，tx4）。现在 “gyytsnigenes” 处于安全状态，并存有一些 EOS（加上 CUP/NET/RAM）。
 
 ```
                            黑客动作图示 
@@ -99,8 +99,10 @@ Ashah Chen
                                Tx8
 
 ```
-# 3. Request
-I invite you BPs to check this situations, proofs and requests. For EOS holder’s rights, please vote the proposal “anewidentity” to frozen fake account “gyygsnigenes” immediately then change gyygsnigenes’s pub keys to gyytsnigenes’s. The coin belongs to two old men, they work half life’s money.
+# 3. 请求
+I invite you BPs to check this situations, proofs and requests. For EOS holder’s rights, I ask you vote the proposal “returnstolen” to frozen fake account “gyygsnigenes” immediately then change gyygsnigenes’s pub keys to gyytsnigenes’s. The coin belongs to two old men, they work half life’s money.
+我请求各位区块生产者检查这些情况、证据和请求。作为 EOS 持有者的权利，我请求你对名为 “returnstolen” 的提案投赞成票，立即冻结偷盗账户 “gyygsnigenes” 并更改其公钥为 “gyytsnigenes” 的公钥。这些失窃的代币属于两位老人，他们半辈子辛苦劳作所积攒的财富。  
+
 # 4. Transctions
 tx1: 6e72676101976af81abcb8e4801b03ca50c1199e0db36a40f879e9cbe949dbf9  
 tx2: 54d8fff2f02257d0b4872394d8673d0a6f8b38669d834b6b7bce281513142804  
