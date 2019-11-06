@@ -20,9 +20,9 @@ tx7: a1f7489af1a84e4251b88b1cb81a36159b46c90515ca8661d37d5a79549a8337
 tx8: 757e5460eb471d73b67a917c3e55608a576d68d1ad3201230c2345e55ab92348  
 tx9: 86c59dd37dbdf90689d7dda24188e565ab286a0111d8f194e8e12aa7c4aeb834  
 
-Best Wishes.
-Ashah Chen
-11/1/2019 
+Best Wishes.  
+Ashah Chen   
+11/6/2019  
 
 
 ## <p align="center"> ECC 原理推导与代码实现 </p>
