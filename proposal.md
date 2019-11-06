@@ -16,23 +16,8 @@ My EOS account “gyytsnigenes” was created at EOS launched time. I have about
 - I have the key pair of sub-accounts “aiwobabamama” and ”chairmanship” of “gyytsnigenes”. Those sub-accounts were created by myself before “gyytsnigenes" was attacked(tx5, tx6).
 - I have done several transactions with memo “9da6b5ea943863ce898cd1faf38d46b4” the hash of sentence “I am the owner of gyytsnigenes and aiwobabamama and chairmanship.” from “gyytsnigenes” to “aiwobabamama” to “chairmanship” then to “gyytsnigenes” as proofs that I am the owner(tx7, tx8, tx9).
 
-```
-                     Picture of owner's evidence  
-                           (2018.06.09-)  
- I am the owner of gyytsnigenes and aiwobabamama and chairmanship.   
-   Up sentence's MD5 hash is 9da6b5ea943863ce898cd1faf38d46b4   
-                                              
-                           [gyytsnigenes]     
-                                 /^
-                                /  \
-                    Memo:9da6../    \ Memo:9da6..
-                    Tx7       /      \Tx9
-                             v        \
-                [aiwobabamama] -----> [chairmanship]  
-                               Memo:9da6..
-                               Tx8
+<p align="center"><img src="PoE.dot.png" width="66%" /></p> 
 
-```
 # 3. Request
 I invite you BPs to check this situations, proofs and requests. For EOS holder’s rights, I ask your vote for the proposal “returnstolen” to frozen fake account “gyygsnigenes” immediately then change gyygsnigenes’s pub keys to gyytsnigenes’s. The coin belongs to two old men, they work half life’s money.
 # 4. Transctions
