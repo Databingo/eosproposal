@@ -22,6 +22,15 @@ My EOS account “gyytsnigenes” was created at EOS launched time. I have about
              /  \
 [aiwobabamama]  [chairmanship]  
 ```
+```flow
+st=>start: 开始
+op=>operation: My Operation
+cond=>condition: Yes or No?
+e=>end
+st->op->cond
+cond(yes)->e
+cond(no)->op
+&```
 
 # 2. Proofs
 - I have the original key pair of “gyytsnigenes”, both owner and active keys.
