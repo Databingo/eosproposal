@@ -7,7 +7,7 @@ Dscription of Referendum: Return a well-proofed stolen EOS coin back to original
 # Dear EOS BPs:
 I am a EOS user, I have a report about lost private key. I need you help to frozen then move back my EOS coin. The Situation, Proof and Request as below.
 # 1. Situation
-My EOS account “gyytsnigenes” was created at EOS launched time. I have about 33620 EOS in it. At Aug 16, 2019, a user “jiawenwallet” created a similar account “gyygsnigenes”([tx1]: https://eosflare.io/tx/6E72676101976AF81ABCB8E4801B03CA50C1199E0DB36A40F879E9CBE949DBF9), three minutes later, someone moved my 33620 EOS into it (tx2). I found this action at Oct 2019, I’m sure someone got my private key because I never do such transfer. I immediately changed the private key of “gyytsnigenes”, then collected other EOS in sub-account “chairmanship”(tx3) and “aiwobabamama”(tx4) to “gyytsnigenes”. Now “gyytsnigenes” is safe with some EOS in it.
+My EOS account “gyytsnigenes” was created at EOS launched time. I have about 33620 EOS in it. At Aug 16, 2019, a user “jiawenwallet” created a similar account “gyygsnigenes”([tx1](https://eosflare.io/tx/6E72676101976AF81ABCB8E4801B03CA50C1199E0DB36A40F879E9CBE949DBF9), three minutes later, someone moved my 33620 EOS into it (tx2). I found this action at Oct 2019, I’m sure someone got my private key because I never do such transfer. I immediately changed the private key of “gyytsnigenes”, then collected other EOS in sub-account “chairmanship”(tx3) and “aiwobabamama”(tx4) to “gyytsnigenes”. Now “gyytsnigenes” is safe with some EOS in it.
 
 <p align="center"><img src="PoS.dot.png" width="66%" /></p> 
 
