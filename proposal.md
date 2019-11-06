@@ -13,8 +13,8 @@ My EOS account “gyytsnigenes” was created at EOS launched time. I have about
 
 # 2. Proofs
 - I have the original key pair of “gyytsnigenes”, both owner and active keys.
-- I have the key pair of sub-accounts “aiwobabamama” and ”chairmanship” of “gyytsnigenes”. Those sub-accounts were created by myself before “gyytsnigenes" was attacked(tx5, tx6).
-- I have done several transactions with memo “9da6b5ea943863ce898cd1faf38d46b4” the hash of sentence “I am the owner of gyytsnigenes and aiwobabamama and chairmanship.” from “gyytsnigenes” to “aiwobabamama” to “chairmanship” then to “gyytsnigenes” as proofs that I am the owner(tx7, tx8, tx9).
+- I have the key pair of sub-accounts “aiwobabamama” and ”chairmanship” of “gyytsnigenes”. Those sub-accounts were created by myself before “gyytsnigenes" was attacked([Tx5](https://eosflare.io/tx/7d1fdd11f1ebb53c2ed7a86b8af548b2c307c045ad2e652207322cc7742bf0fa), [Tx6](https://eosflare.io/tx/1877ed94dafdeee92a6a912bbc4ad404a0ad2da6ff91ad447a4c7679faf4ba71)).
+- I have done several transactions with memo “9da6b5ea943863ce898cd1faf38d46b4” the hash of sentence “I am the owner of gyytsnigenes and aiwobabamama and chairmanship.” from “gyytsnigenes” to “aiwobabamama” to “chairmanship” then to “gyytsnigenes” as proofs that I am the owner([Tx7](https://eosflare.io/tx/a1f7489af1a84e4251b88b1cb81a36159b46c90515ca8661d37d5a79549a8337), [Tx8](https://eosflare.io/tx/757e5460eb471d73b67a917c3e55608a576d68d1ad3201230c2345e55ab92348), [Tx9](https://eosflare.io/tx/86c59dd37dbdf90689d7dda24188e565ab286a0111d8f194e8e12aa7c4aeb834)).
 
 <p align="center"><img src="PoE.dot.png" width="56%" /></p> 
 
