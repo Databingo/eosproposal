@@ -1,15 +1,15 @@
 
-#Dear EOS BPs:
+# Dear EOS BPs:
 I am a EOS user, I have a report about lost private key. I need you help to frozen then move back my EOS coin. The Situation, Proof and Request as below.
-#1. Situation
+# 1. Situation
 My EOS account “gyytsnigenes” was created at EOS launched time. I have about 33620 EOS in it. At Aug 16, 2019, a user “jiawenwallet” created a similar account “gyygsnigenes”(tx1), three minutes later, someone moved my 33620 EOS in to it (tx2). I found this action at Oct 2019, I’m sure someone got my private key because I never do such transfer. I immediately changed the private key of “gyytsnigenes”, then collected other EOS in sub-account “chairmanship”(tx3) and “aiwobabamama”(tx4) to “gyytsnigenes”. Now “gyytsnigenes” is safe with some EOS in it(plus CUP/NET/RAM).
-#2. Proofs
+# 2. Proofs
 I have the original key pair of “gyytsnigenes”, both owner and active keys.
 I have the key pair of sub-accounts “aiwobabamama” and ”chairmanship” of “gyytsnigenes”. Those sub-accounts were created by myself before “gyytsnigenes" was attacked(tx5, tx6).
 I have done transactions with memo “9da6b5ea943863ce898cd1faf38d46b4” the hash of sentence “I am the owner of gyytsnigenes and aiwobabamama and chairmanship.” from “gyytsnigenes” to “aiwobabamama” to “chairmanship” then to “gyytsnigenes” as proofs that I am the owner(tx7, tx8, tx9).
-#3. Request
+# 3. Request
 I invite you BPs to check this situations, proofs and requests. For EOS holder’s rights, please vote the proposal “anewidentity” to frozen fake account “gyygsnigenes” immediately then change gyygsnigenes’s pub keys to gyytsnigenes’s. The coin belongs to two old men, they work half life’s money.
-#4. Transctions
+# 4. Transctions
 tx1: 6e72676101976af81abcb8e4801b03ca50c1199e0db36a40f879e9cbe949dbf9
 tx2: 54d8fff2f02257d0b4872394d8673d0a6f8b38669d834b6b7bce281513142804
 tx3: fb78ff4d355cc436226519bb7687df3ca508549f111d9d4c0c9228eaa6a92b8a
